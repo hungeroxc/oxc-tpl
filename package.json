@@ -1,7 +1,7 @@
 {
-  "name": "blog",
-  "version": "1.0.0",
-  "description": "",
+  "name": "{{projectName}}",
+  "version": "{{projectVersion}}",
+  "description": "{{projectDescription}}",
   "main": "index.js",
   "dependencies": {
     "antd": "^3.20.5",
