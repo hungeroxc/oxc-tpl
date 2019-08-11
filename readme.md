@@ -1,4 +1,4 @@
-This is a simple (admin) starter with typescript, react and webpack.
+This is a simple starter with typescript, react and webpack.
 
 ## build for development
 
