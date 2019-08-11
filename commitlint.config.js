@@ -13,6 +13,7 @@ module.exports = {
                 'perf',
                 'style',
                 'merge',
+                'doc',
                 'improvement',
             ]
         ]
